@@ -2,9 +2,9 @@
     Hey, I'm Matthéo ! 👋🏾
 </h2>
 
-💼&nbsp;&nbsp;&nbsp;I'm a student at <a href="https://www-ensibs.univ-ubs.fr/fr/index.html">ENSIBS de Vannes</a>&nbsp;
+💼&nbsp;&nbsp;&nbsp;I'm a student at <a href="https://www-ensibs.univ-ubs.fr/fr/index.html">ENSIBS of Vannes</a>&nbsp;
 
-🌱&nbsp;&nbsp;&nbsp;I’m currently learning React and Java
+🌱&nbsp;&nbsp;&nbsp;I’m currently learning VueJs and Java
 
 <!--📫&nbsp;&nbsp;&nbsp;Email me at example@gmail.com
 
